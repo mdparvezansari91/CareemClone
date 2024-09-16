@@ -1,0 +1,62 @@
+.hero-section-service-container{
+    display: grid;
+    flex-direction: column;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 30px 10px 10px 30px;
+    gap: 20px;
+    
+    
+    
+}
+
+.hero-section-service-container ul{
+    list-style: none;
+}
+
+.hero-section-services{
+    
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    position: relative;
+
+
+}
+
+.hero-section-services h2{
+    font-size: 54px;
+
+}
+
+.hero-section-services h2{
+    font-size: 36px;
+}
+
+.service-list .span{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    
+}
+
+.right-arrow{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.service-list{
+    margin-top: 20px;
+    
+}
+
+.service-list h4{
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.service-list img{
+    height: 28px;
+}

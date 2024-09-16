@@ -1,0 +1,10 @@
+.footer-container{
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    margin: 20px 10px 20px 0px;
+}
+
+.footer-container ul{
+    list-style: none;
+}
